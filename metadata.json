@@ -1,0 +1,8 @@
+{
+  "name": "SoPipa - Gestão de Oficina & Frota",
+  "description": "Aplicativo profissional para registro de manutenções veiculares, otimizado para tablets e celulares em ambiente de oficina, com sincronização para Supabase.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
